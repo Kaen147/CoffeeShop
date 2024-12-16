@@ -485,6 +485,11 @@ header{
         text-align: center;
     }
 
+    .footer .footer-box .social a{
+        text-decoration: none;
+      padding-left: 40px;
+    }
+
     .footer-box {
         margin-bottom: 20px;
     }
